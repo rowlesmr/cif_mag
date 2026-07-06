@@ -2077,7 +2077,7 @@ save_atom_site_moment_fourier_param.structure_id
 ;
     _name.category_id             atom_site_moment_Fourier_param
     _name.object_id               structure_id
-    _name.linked_item_id          '_atom_site_moment.structure_id'
+    _name.linked_item_id          '_atom_site_moment_Fourier.structure_id'
     _type.purpose                 Link
     _type.source                  Assigned
     _type.container               Single
